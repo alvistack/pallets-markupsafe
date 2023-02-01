@@ -65,14 +65,12 @@ pluggy==0.13.1
 pre-commit==2.14.1
     # via -r requirements/dev.in
 py==1.10.0
-    # via
-    #   pytest
-    #   tox
+    # via tox
 pygments==2.9.0
     # via sphinx
 pyparsing==2.4.7
     # via packaging
-pytest==6.2.5
+pytest==7.2.1
     # via -r requirements/tests.in
 pytz==2021.1
     # via babel
@@ -113,7 +111,6 @@ toml==0.10.2
     #   mypy
     #   pep517
     #   pre-commit
-    #   pytest
     #   tox
 tox==3.24.3
     # via -r requirements/dev.in
