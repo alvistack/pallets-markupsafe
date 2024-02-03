@@ -1,0 +1,5 @@
+python-markupsafe source: file-without-copyright-information
+python-markupsafe source: no-debian-changes
+python-markupsafe source: source-contains-prebuilt-windows-binary
+python-markupsafe source: source-is-missing
+python-markupsafe source: source-package-encodes-python-version
