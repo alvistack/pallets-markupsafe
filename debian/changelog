@@ -1,0 +1,5 @@
+python-markupsafe (100:3.0.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pallets/markupsafe/releases/tag/3.0.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 08 Oct 2024 10:38:01 +0800
