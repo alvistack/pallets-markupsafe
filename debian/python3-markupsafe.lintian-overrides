@@ -1,0 +1,4 @@
+python3-markupsafe: copyright-without-copyright-notice
+python3-markupsafe: initial-upload-closes-no-bugs
+python3-markupsafe: no-manual-page
+python3-markupsafe: zero-byte-file-in-doc-directory
